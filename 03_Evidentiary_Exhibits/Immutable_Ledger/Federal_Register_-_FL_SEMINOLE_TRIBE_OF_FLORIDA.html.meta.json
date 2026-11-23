@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=FL+SEMINOLE+TRIBE+OF+FLORIDA",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=FL+SEMINOLE+TRIBE+OF+FLORIDA",
+  "title": "Federal Register - FL SEMINOLE TRIBE OF FLORIDA",
+  "fetched_at": "2026-11-23T17:33:05.532802Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 329285,
+  "sha256": "220270450ace58356297d5decf38d0fa920f8a61e589e811fd52c7fed2935368",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
